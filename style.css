@@ -1,0 +1,95 @@
+.bg {
+  position: sticky !important;
+  top: 0%;
+  z-index: 1 !important;
+}
+
+img {
+  float: left;
+  margin: 5px;
+}
+
+p {
+  text-align: justify;
+  font-size: 25px;
+}
+
+body {
+  text-align: left;
+}
+
+table,
+th,
+td {
+  border: 2px solid #3c917b;
+  border-style: double;
+}
+
+@media screen and (max-width:600px) {
+  .fded {
+    margin-left: 19px;
+    width:100%;
+  }
+  .fded p{
+    margin-left:32px;
+    font-size:23px;
+  }
+  .butn {
+    display: none;
+  }
+  .duwd {
+    margin-left:14px;
+    width:489px;
+  }
+  .duwd p{
+font-size:19px;  
+}
+  .cere {
+    size-adjust:42px;
+  }
+  .myarts {
+    display: inline;
+  }
+
+  .myarts2 {
+    display: inline;
+  }
+
+  .oter {
+    display: none;
+  }
+
+  .story {
+    display: inline;
+  }
+
+  .story2 {
+    display: inline;
+  }
+
+  .contactp {
+    width: 86%;
+  }
+
+  .ike {
+    font-size: 29px;
+  }
+}
+.fded {
+  font-size:39px;
+  font-family: cursive;
+  color:#EC825B;
+  text-align: center;
+}
+.duwd {
+  font-size:39px;
+  font-family: cursive;
+  color:#3c917b;
+  text-align: center;
+}
+.cere2 {
+  color:#3C917B;
+  text-align: center;
+  font-family: cursive;
+  font-size: 39px;
+}
